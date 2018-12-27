@@ -1,0 +1,22 @@
+***********************************************************************************************************************************************************************************************
+
+STEPS:
+
+1) First follow all the steps given in the ReadMe document. Now, open the localhost.
+
+2) Open the login.php file in browser URL  as "localhost/login.php".
+
+3) The user can directly Log In from here or a new user can click Sign up and then register as a new user of the system. Only if the ID and Passwords match, the user is then directed to the next page which is view profile page.
+
+4) The data entered by the student in these text fields is directly entered into the student table in the database. 
+
+5) After the user has successfully logged in, he/she is directed to this page where student can view their own details as entered by the user.
+
+6) The main navigation in this page is at the top. Where if you click on Home it’ll take you to the home page of the application. If you click on user, it will give you few options like edit profile, view time table and log out. Clicking on edit profile takes you to the Edit profile page, clicking on view time table will show you the time table of the current semester and clicking on log out will take you to the Login Page again.
+
+7) If you click on the Syllabus menu, it will show you the names of subjects in current semester and by clicking on each name, you can view the images of syllabus copies of those subjects. Finally, clicking on Registration, you will see the option of New Term Registration which takes you to the Registration Page. 
+ 
+
+8) The registration page is most important page.It enlists the subject names and codes from the subject table and then provides the check boxes which we can check to register for that particular subject. After clicking all the check boxes and then clicking the submit button, the course registration process is finally done and changes are made in the registration table. 
+
+***********************************************************************THAT'S ALL*****THANK-YOU*********************************************************************************
