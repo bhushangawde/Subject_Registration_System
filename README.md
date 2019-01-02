@@ -7,5 +7,5 @@ Also, he can update his profile information using the Edit Profile tab.
 He can view the syllabus for all his subjects as well as the time table for the current semester.
 
 
-The front end is developed using HTML,CSS JAVASCRIPT. For backend scripts, PHP was used.
+The front end is developed using HTML,CSS,BOOTSTRAP,JQUERY and JAVASCRIPT. For backend scripts, PHP was used.
 
