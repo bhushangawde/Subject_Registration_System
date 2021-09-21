@@ -1,4 +1,4 @@
-# Mini-Shiksha-Cloud
+# Subject Registration System
 
 This is a miniature version of a course registration website. 
 Student can login to his account or can sign up for a new account.
